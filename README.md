@@ -143,7 +143,8 @@
     style="padding-right: 10px; margin-bottom: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
-
+<br/>
+<br/>
 <img 
     align="left" 
     alt="AngularJS" 
@@ -252,7 +253,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br clear="left" />
+<br/>
+<br/>
 
 <h3 style="color: #f76b93;">📊 Estatísticas</h3>
 
