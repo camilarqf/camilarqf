@@ -144,7 +144,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 <br/>
-<br/>
+
 <img 
     align="left" 
     alt="AngularJS" 
