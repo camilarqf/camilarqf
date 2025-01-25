@@ -135,6 +135,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
+<br/>
 
 <img 
     align="left" 
@@ -160,7 +161,6 @@
     style="padding-right: 10px; padding-bottom: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" 
 />
-<br/>
 
 <img 
     align="left" 
