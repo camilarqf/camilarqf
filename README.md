@@ -152,7 +152,6 @@
     style="padding-right: 10px; padding-bottom: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
-<br/>
 <img 
     align="left" 
     alt="HTML"
@@ -161,6 +160,8 @@
     style="padding-right: 10px; padding-bottom: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" 
 />
+<br/>
+
 <img 
     align="left" 
     alt="HTML"
