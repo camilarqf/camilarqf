@@ -1,5 +1,4 @@
 <h3 style="color: #f76b93;">🤖 Linguagens e Tecnologias</h3>
-
 <img 
     align="left" 
     alt="JAVA"
